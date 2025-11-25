@@ -1,4 +1,36 @@
-## 🌐 Socials:
+# Halo! Saya [Nama Lengkap Anda] 👋
+
+Saya adalah seorang **Mahasiswa** di **Universitas Bina Sarana Informatika (UBSI)** yang cukup tertarik dalam dunia pengembangan perangkat lunak dan teknologi.
+
+---
+
+### 🚀 Tentang Saya
+
+| Emoji | Bagian                             | Deskripsi                                                                                                                                      |
+| :---- | :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔭    | **Saya sedang mengerjakan:**       | Proyek aplikasi mobile bernama **GoTrush** (layanan pengambilan sampah online) yang terinspirasi dari model aplikasi ojek online di Indonesia. |
+| 🌱    | **Saya sedang belajar:**           | Secara aktif mendalami **Framework Flutter** dan bahasa pemrograman **Dart** untuk membangun aplikasi mobile yang efisien.                     |
+| 👯    | **Saya mencari kolaborasi untuk:** | Proyek pengembangan aplikasi mobile berbasis Flutter atau diskusi mengenai ide-ide aplikasi yang mengintegrasikan layanan _on-demand_.         |
+| ❓    | **Saya mencari bantuan dengan:**   | Tips dan trik dalam optimasi UI/UX di Flutter atau integrasi API yang kompleks dalam aplikasi mobile.                                          |
+| 💬    | **Tanyakan pada saya tentang:**    | Pengalaman saya memenangkan Juara 2 di kompetisi **IT Bootcamp Lomba IOT** yang diadakan oleh kampus.                                          |
+| ⚡    | **Fakta menarik:**                 | Hobi saya adalah **bermain game** dan terus **belajar** hal-hal baru, baik teknis maupun non-teknis.                                           |
+
+---
+
+### 🛠️ Keahlian & Teknologi
+
+Berikut adalah teknologi yang saya gunakan atau sedang saya pelajari:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+</p>
+
+---
+
+## 🔗 Hubungi Saya
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arulaja04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasrullah-akbar-fadriansyah-711642309/)
 
@@ -27,5 +59,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Fadriansya&icon=3&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
