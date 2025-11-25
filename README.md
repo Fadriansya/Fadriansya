@@ -1,4 +1,4 @@
-# Halo! Saya Nasrullah Akbar Fadriansyah 👋
+![Nasrullah](img/mybenner.png)
 
 Mahasiswa **UBSI (Universitas Bina Sarana Informatika)** yang tertarik banget dengan dunia **Pemrograman** dan **Teknologi**. Fokus utama sekarang: _Mobile Development!_
 
@@ -56,14 +56,8 @@ Mahasiswa **UBSI (Universitas Bina Sarana Informatika)** yang tertarik banget de
 
 # 📊 Statistik Ngoding & Kontribusi:
 
-![](https://github-readme-stats.vercel.app/api?username=Fadriansya&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fadriansya&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadriansya&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Nasrullah](https://nirzak-streak-stats.vercel.app/?user=Fadriansya&theme=transparent&hide_border=false)<br/>
 
-## 🏆 Pencapaian GitHub
-
-![](https://github-profile-trophy.vercel.app/?username=Fadriansya&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Kutipan Dev Random
+## ✍️ Kutipan Dev Random
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
