@@ -37,8 +37,6 @@ Mahasiswa **UBSI (Universitas Bina Sarana Informatika)** yang tertarik banget de
 
 # 💻 Stack yang Pernah Saya Sentuh:
 
-_Bagian ini diubah untuk fokus pada Tools yang belum ada di "Keahlian Dasar". Karena sebagian besar sudah Anda masukkan, saya tambahkan badge AI dan sisa tools lain yang relevan._
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -52,6 +50,9 @@ _Bagian ini diubah untuk fokus pada Tools yang belum ada di "Keahlian Dasar". Ka
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF4606?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CHATGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GOOGLE GEMINI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GITHUB COPILOT](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 # 📊 Statistik Ngoding & Kontribusi:
 
@@ -66,11 +67,3 @@ _Bagian ini diubah untuk fokus pada Tools yang belum ada di "Keahlian Dasar". Ka
 ### ✍️ Kutipan Dev Random
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Repo Paling Banyak Dikontribusi
-
-![](https://github-contributor-stats.vercel.app/api?username=Fadriansya&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Fadriansya&icon=3&color=1)](https://visitcount.itsvg.in)
